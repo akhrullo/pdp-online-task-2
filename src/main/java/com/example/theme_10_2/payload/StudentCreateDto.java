@@ -11,9 +11,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToOne;
 import java.util.List;
 
-/**
- * @author Saydali Murodullayev, Sun 4:08 PM. 3/13/2022
- */
+
 @Data
 public class StudentCreateDto {
 
